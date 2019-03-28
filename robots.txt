@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thiewelei.design-pattern.ru/sitemap.xml
